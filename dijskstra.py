@@ -1,6 +1,8 @@
 import heapq
 from Matrice import villes, M
 
+##
+
 def dijkstra(ville_depart,ville_arrive) :
     n = len(villes)
 
